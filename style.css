@@ -1,0 +1,49 @@
+.nav-logo{
+
+    font-family: 'Oleo Script', cursive;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    color: rgb(0, 0, 0);
+}
+
+
+.nav-logo2  {
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+}
+
+.start{
+
+
+    
+}
